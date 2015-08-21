@@ -1,0 +1,20 @@
+digraph test_jp_com {
+<node_arrange.Node instance at 0x10cd70908> -> <node_arrange.Node instance at 0x10cd70878>  [color=red, label="4"];
+<node_arrange.Node instance at 0x10cd70878> -> <node_arrange.Node instance at 0x10cd70830>  [color=red, label="4"];
+<node_arrange.Node instance at 0x10cd70878> [label="一般(1)\n小学生\n中学生\n大学生\n学生"];
+<node_arrange.Node instance at 0x10cd70878> [label="一般(1)\n小学生\n中学生\n大学生\n学生"];
+<node_arrange.Node instance at 0x10cd70878> [label="一般(1)\n小学生\n中学生\n大学生\n学生"];
+<node_arrange.Node instance at 0x10cd70878> [label="一般(1)\n小学生\n中学生\n大学生\n学生"];
+<node_arrange.Node instance at 0x10cd70830> -> 1  [color=red, label="4"];
+<node_arrange.Node instance at 0x10cd70830> [fontcolor=red, shape=doublecircle, label="です"];
+<node_arrange.Node instance at 0x10cd70830> [fontcolor=red, shape=doublecircle, label="です"];
+<node_arrange.Node instance at 0x10cd70830> [fontcolor=red, shape=doublecircle, label="です"];
+<node_arrange.Node instance at 0x10cd70830> [fontcolor=red, shape=doublecircle, label="です"];
+<node_arrange.Node instance at 0x10cd70950> -> <node_arrange.Node instance at 0x10cd70908>  [color=red, label="4"];
+<node_arrange.Node instance at 0x10cd70950> [fontcolor=red, shape=doublecircle, label="私"];
+<node_arrange.Node instance at 0x10cd70950> [fontcolor=red, shape=doublecircle, label="私"];
+<node_arrange.Node instance at 0x10cd70908> [fontcolor=red, shape=doublecircle, label="は"];
+<node_arrange.Node instance at 0x10cd70908> [fontcolor=red, shape=doublecircle, label="は"];
+<node_arrange.Node instance at 0x10cd70908> [fontcolor=red, shape=doublecircle, label="は"];
+<node_arrange.Node instance at 0x10cd70908> [fontcolor=red, shape=doublecircle, label="は"];
+}

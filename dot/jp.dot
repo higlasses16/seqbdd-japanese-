@@ -1,0 +1,24 @@
+digraph jp {
+<node_arrange_ver_testset.Node instance at 0x10d3f0680> -> 1  [color=red, label="4"];
+<node_arrange_ver_testset.Node instance at 0x10d3f07e8> -> <node_arrange_ver_testset.Node instance at 0x10d3f0758>  [color=red, label="5"];
+<node_arrange_ver_testset.Node instance at 0x10d3f07e8> [fontcolor=red, shape=doublecircle, label="私"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0638> -> <node_arrange_ver_testset.Node instance at 0x10d3f0680>  [color=red, label="4"];
+<node_arrange_ver_testset.Node instance at 0x10d3f05a8> [label="助詞(3)\nで"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0638> -> <node_arrange_ver_testset.Node instance at 0x10d3f05a8>  [color=red, label="1"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0680> [fontcolor=red, shape=doublecircle, label="です"];
+<node_arrange_ver_testset.Node instance at 0x10d3f05a8> [label="助詞(3)\nで"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0680> [fontcolor=red, shape=doublecircle, label="です"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0758> -> <node_arrange_ver_testset.Node instance at 0x10d3f0638>  [color=red, label="5"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0518> [label="助詞(4)\nは"];
+<node_arrange_ver_testset.Node instance at 0x10d3f05a8> -> <node_arrange_ver_testset.Node instance at 0x10d3f0518>  [color=red, label="1"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0758> [fontcolor=red, shape=doublecircle, label="は"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0518> [label="助詞(4)\nは"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0758> [fontcolor=red, shape=doublecircle, label="は"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0638> [label="名詞(2)\n小学生\n中学生\n大学生\n学生\n学生"];
+<node_arrange_ver_testset.Node instance at 0x10d3f04d0> [label="形容詞(5)\nない"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0518> -> <node_arrange_ver_testset.Node instance at 0x10d3f04d0>  [color=red, label="1"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0638> [label="名詞(2)\n小学生\n中学生\n大学生\n学生\n学生"];
+<node_arrange_ver_testset.Node instance at 0x10d3f0638> [label="名詞(2)\n小学生\n中学生\n大学生\n学生\n学生"];
+<node_arrange_ver_testset.Node instance at 0x10d3f04d0> [label="形容詞(5)\nない"];
+<node_arrange_ver_testset.Node instance at 0x10d3f04d0> -> 1  [color=red, label="1"];
+}
